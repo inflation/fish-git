@@ -13,7 +13,7 @@
 ## Install
 
 ```fish
-$ omf install Git
+$ omf install https://github.com/inflation/plugin-git.git
 ```
 
 
