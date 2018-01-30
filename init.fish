@@ -119,6 +119,7 @@ abbr gpd 'git push --dry-run'
 abbr gpoat 'git push origin --all; and git push origin --tags'
 abbr gpu 'git push upstream'
 abbr gpv 'git push -v'
+abbr gpf 'git push -f'
 
 abbr gr 'git remote'
 abbr gra 'git remote add'
